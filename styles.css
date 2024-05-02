@@ -1,11 +1,40 @@
-img{
-    border-radius: 50%;
+.workexpri{
+    border: 2px solid #1C1678;
 }
 
-.workexpri{
-    border: 2px solid rgb(185, 68, 68);
+img{
+    border-radius: 50%;
+    margin-left: 10%;
 }
 
 th{
-    border: 2px solid rgb(185, 68, 68);
+    border: 2px solid #1C1678;
+}
+
+body{
+    background-color: #000000;
+    font-family: sans-serif;
+}
+
+a{
+    color: #FFD23F;
+}
+
+hr{
+    border-style:dashed double dashed;
+    height: 20px;
+    color: #5E1675;
+}
+
+h1,h3,h4,p,th{
+    margin-left: 10%;
+    color: #EE4266;
+}
+
+ul,li,tr{
+    color: #FFD23F;
+}
+
+.Head1{
+    background-color: #5E1675;
 }
